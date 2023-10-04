@@ -16,7 +16,7 @@ Functions of CS2 Source Project
  - Health Bar
  - Aimbot (Fov 1 - 100%)
  - EyeLine
- - Auto Fix Offests
+ - Auto Fix Offsets
  - Timer Bom Exploit (I not recommended to use this)
 
 
