@@ -20,7 +20,7 @@ Functions of CS2 Source Project
  - Timer Bom Exploit (I not recommended to use this)
 
 
-# Cara Menggunakan Kode Sumber Project CS2
+# Cara Menggunakan Project CS2
 Untuk mengkompilasi cheat, ikuti langkah-langkah sederhana ini. Namun, kami tidak dapat menjamin bahwa cara ini akan berhasil untuk semua orang, karena sistem dan perangkat lunak berbeda-beda. Anda mungkin perlu menyesuaikan panduan ini berdasarkan konfigurasi sistem Anda.
  - **Install Visual Studio:** Agar cheat berfungsi, Anda harus mengkompilasi kode sumbernya menggunakan Visual Studio, yang dapat diunduh dari situs resmi Microsoft.
 ```
